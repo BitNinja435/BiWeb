@@ -1,2 +1,5 @@
 # BiWeb
 Revolusi untuk masa depan
+- Membuat sebuah Website PHP, HTML, CSS yang menarik
+- Harus membanggakan Orang tua
+- Harus success di masa depan
